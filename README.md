@@ -1,10 +1,25 @@
+## Mis Aportes y Responsabilidades — Eliana Sarah Moguilevsky
+
+* **Desarrollo de Perfil Individual y Maquetación Responsive (`marge.html` y `css/room.css`):**
+  * Diseño y desarrollo de la habitación/tarjeta individual asignada a mi perfil (**Eliana / Marge**), estructurando la presentación personal, etiquetas de habilidades, películas y discos favoritos.
+  * Integración de avatar personalizado (`img/avatar-eliana.png`) y navegación interna fluida entre las habitaciones del equipo y la bitácora, respetando la identidad visual y los tres *breakpoints* responsive del sitio (`400px`, `900px` y `1200px`).
+
+* **Interacción Dinámica en JavaScript (`js/index.js` y `css/peinado.css`):**
+  * Implementación de la funcionalidad interactiva propia de la sección (`initPeinadoMarge`): un control deslizante (*input* de rango) para modificar en tiempo real la altura del peinado de Marge y revelar objetos ocultos (`actualizarPeinado`), junto con la acción de confirmación y guardado de selección (`guardarObjetoElegido`).
+
+* **Coordinación Técnica, Estilos Globales y Documentación (`Tech Lead`):**
+  * Rol de **Tech Lead** en el proyecto: acompañamiento en la arquitectura inicial del repositorio, organización del flujo de trabajo en Git mediante ramas personales e integración de cambios.
+  * Unificación de componentes transversales y QA visual en todo el sitio: estandarización de pies de página (`footer`), actualización de enlaces y avatares en las distintas habitaciones, corrección de rutas de imágenes, soporte en hojas de estilos globales y redacción de la guía de estilos y tecnologías en el `README.md`.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # Donuts & Code
 
 Landing del grupo **Donuts & Code**, con tematica de Los Simpsons: la portada es la casa de la familia, cada ventana es la tarjeta de un integrante y lleva a su perfil, y la central nuclear del fondo lleva a la bitacora del proyecto.
 
 **Link Vercel:** https://frontend-grupo-16-pi.vercel.app/
 
-**Repositorio Github:** https://github.com/IgnacioMiguelPenovi/Frontend-Grupo-16.git
+**Repositorio Github:** https://github.com/ElianaMoguilevsky/FrontEnd2026-TP1
 
 ## Integrantes
 
